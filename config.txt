@@ -1,0 +1,4 @@
+NeoVerse AI City Survival System
+Version=1.0
+SensorCriticalThreshold=80
+LoginSearch=linear find_if

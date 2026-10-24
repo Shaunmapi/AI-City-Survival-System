@@ -1,0 +1,3 @@
+LogID,Timestamp,Severity,Subsystem,Message
+1,2026-09-20 12:00,WARN,Power,"Grid frequency problem"
+2,2026-09-20 12:00,CRITICAL,Security,"Unauthorized access"
